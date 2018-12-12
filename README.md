@@ -1,4 +1,4 @@
-What is it
+What is it?
 -----------
 
 This appliacation allows you to encrypt and decrypt your text using a Caesar cipher.
