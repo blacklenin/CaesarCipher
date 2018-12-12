@@ -19,4 +19,4 @@ Functional
 Contacts
 -----------
 
-If you have any questions, you can read me on my post: simple_nik@mail.ru
+If you have any questions, you can write me on my post: simple_nik@mail.ru
