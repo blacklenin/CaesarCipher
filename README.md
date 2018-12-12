@@ -12,7 +12,7 @@ Functional
 1) You can read or save text from files with a .txt or .docx extension. The application doesn't work with other extensions.
 2) Function "Open" reads the text from the chosen file and writes this text to the form.
 3) Function "Save as" saves text from the form to the chosen file.
-4) You can set the key and shift directions of the text (defaults key = 2, directions - right).
+4) You can set the key and shift directions of the text (default key = 2, default direction - right).
 5) Function "Decrypt" replaces characters with key-shifted characters in the chosen direction.
 6) Function "Encrypt" replaces characters with key-shifted characters in the opposite direction.
 
